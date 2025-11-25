@@ -1,6 +1,6 @@
 # GIS
 # Phân tích rủi ro ngập lụt đô thị TP. Hồ Chí Minh
-# Python GeoPandas Folium
+Python GeoPandas Folium
 # Tổng quan dự án
 Dự án mô phỏng và đánh giá rủi ro ngập lụt cho 22 quận/huyện TP. Hồ Chí Minh dựa trên kịch bản nước dâng 2 m + vùng đệm 100 m quanh sông ngòi. Toàn bộ quy trình được thực hiện bằng Python + GIS, không cần phần mềm thương mại (ArcGIS/QGIS).
 # Mục tiêu
